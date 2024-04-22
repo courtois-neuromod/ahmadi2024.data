@@ -4,7 +4,7 @@
 The [Courtois project on Neural Modelling (Courtois NeuroMod)](https://www.cneuromod.ca/) aims at training artificial neural networks using extensive experimental data on individual human brain activity and behavior.
 
 
-Intermediate  Numpy files generated in the paper titled [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/pdf/2403.19421.pdf)
+Intermediate  Numpy files were generated in the paper titled [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/pdf/2403.19421.pdf)
 
 ## Multiresolution Time Series Extraction
 
